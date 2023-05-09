@@ -8,4 +8,4 @@ At a glance this is what was done
 * Inserting data
 * Querying all data
 * Left Join
-* Left Join with conditional
+* Join with conditionals
