@@ -9,3 +9,5 @@ At a glance this is what was done
 * Querying all data
 * Left Join
 * Join with conditionals
+
+Click [Project](https://github.com/a-alejo/SQL-Showcase/blob/main/SQL_Showcase.ipynb)
